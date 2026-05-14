@@ -5,7 +5,6 @@
 **Senior Full-Stack Engineer · AI · Architecture**
 
 [![GitHub followers](https://img.shields.io/github/followers/pauvalls?style=for-the-badge&logo=github&label=Follow)](https://github.com/pauvalls)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/pauvalls)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
