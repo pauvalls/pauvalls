@@ -61,21 +61,29 @@ Drop it into any React 18+ app: declare chapters, selectors, topics and copy as 
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/pauvalls/grimorio">📜 Grimorio</a></h3>
+      <a href="https://github.com/pauvalls/grimorio">
+        <img src="https://github.com/user-attachments/assets/6727cb79-95cb-48c1-9920-16574abd29e6" alt="Grimorio — AI-powered D&amp;D 5e adventure generator" width="100%" />
+      </a>
       <p><strong>AI-powered D&amp;D 5e campaign &amp; one-shot generator</strong></p>
       <p>Turn a spark of an idea into a fully-formatted, print-ready PDF adventure book — complete with lore, NPCs, bestiary, encounters, maps, and styled WotC-inspired layouts.</p>
       <p>
         <img src="https://img.shields.io/badge/Go-00ADD8?logo=go">
         <img src="https://img.shields.io/badge/AI-412991?logo=openai">
       </p>
+      <p><a href="https://github.com/pauvalls/grimorio"><strong>Repository →</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/pauvalls/arx">⚡ arx</a></h3>
+      <a href="https://github.com/pauvalls/arx">
+        <img src="https://raw.githubusercontent.com/pauvalls/arx/master/assets/arx.png" alt="arx — cross-language architecture audit CLI" width="100%" />
+      </a>
       <p><strong>Cross-language architecture audit CLI</strong></p>
       <p>Validates architectural rules across your codebase and explains <em>why</em> violations matter. Keeps your team aligned on modular boundaries, layer separation, and dependency rules.</p>
       <p>
         <img src="https://img.shields.io/badge/Go-00ADD8?logo=go">
         <img src="https://img.shields.io/badge/Architecture-FF6B6B">
       </p>
+      <p><a href="https://github.com/pauvalls/arx"><strong>Repository →</strong></a></p>
     </td>
   </tr>
 </table>
